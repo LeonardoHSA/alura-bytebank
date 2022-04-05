@@ -29,7 +29,5 @@ public class TestaMetodo {
 		System.out.println(contaPaulo.titular);
 		
 		
-		System.out.println("Primeiro commit");
-		
 	}
 }
